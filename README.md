@@ -1,3 +1,3 @@
 ## 2026-03-21
 
-One commit at a time.
+Germany 2027. Stay focused.
