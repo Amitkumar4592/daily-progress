@@ -1,3 +1,3 @@
-## 2026-03-22
+## 2026-03-22 — 9:00
 
-Consistency beats talent.
+Reviewed DSA problems today.
